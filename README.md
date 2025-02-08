@@ -1,0 +1,2 @@
+# The Odin Recipes
+- A simple recipe app built with html (no css including), with the goal of practicing all the Html knowledge aquired during the last sections, as well as learning and practicing more the essentials of writting good commit message.
