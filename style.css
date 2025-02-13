@@ -25,3 +25,8 @@
 .page-secondary-titles {
     color: green;
 }
+
+img {
+    width: 100%;
+    height: auto;
+}
