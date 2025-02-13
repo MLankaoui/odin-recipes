@@ -15,3 +15,13 @@
     color: white;
     text-align: center;
 }
+
+.page-title {
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+
+.page-secondary-titles {
+    color: green;
+}
